@@ -1,0 +1,8 @@
+# pymol residue selection -> mutant
+chain E and resn LEU and resi 452 -> ARG
+chain E and resn LEU and resi 452 -> GLN
+chain E and resn SER and resi 477 -> ASN 
+chain E and resn THR and resi 478 -> LYS
+chain E and resn GLU and resi 484 -> GLN
+chain E and resn PHE and resi 490 -> SER
+chain E and resn ASN and resi 501 -> TYR
